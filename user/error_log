@@ -1,0 +1,812 @@
+[30-Jan-2023 06:41:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php on line 3
+[30-Jan-2023 08:31:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[30-Jan-2023 08:41:38 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[30-Jan-2023 08:45:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[30-Jan-2023 22:32:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:45 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:45 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:45 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:48 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:48 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:48 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:49 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:49 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:49 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:50 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:50 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:50 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:51 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:51 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:51 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:53 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:53 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:53 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:55 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:55 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:55 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:57 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:57 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 22:59:57 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 22:59:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:03 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:03 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:03 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:05 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:05 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:05 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:06 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:07 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:07 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:07 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:09 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:09 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:09 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:10 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:10 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:10 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:12 America/New_York] PHP Warning:  include_once(layouts/header.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:12 America/New_York] PHP Warning:  include_once(): Failed opening 'layouts/header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 3
+[30-Jan-2023 23:00:12 America/New_York] PHP Warning:  Undefined global variable $_SESSION in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:00:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[30-Jan-2023 23:06:25 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:06:27 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:06:29 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:06:29 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:06:29 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:06:43 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(6) : eval()'d code on line 1
+[30-Jan-2023 23:15:14 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 6
+[30-Jan-2023 23:15:18 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 6
+[30-Jan-2023 23:19:06 America/New_York] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 6
+[05-Feb-2023 06:56:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 06:56:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 06:56:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 06:56:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 06:56:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 06:56:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 06:56:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 06:56:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:00:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:00:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:00:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:00:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:00:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[05-Feb-2023 07:00:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:00:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:00:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:00:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:19:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:19:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:19:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:19:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:32:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:32:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:32:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:32:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:41:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[05-Feb-2023 07:46:32 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:46:32 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:46:32 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:46:32 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:47:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:47:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:47:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:47:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:47:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:47:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:47:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:47:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[05-Feb-2023 07:47:28 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[05-Feb-2023 07:47:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:47:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:47:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:47:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[05-Feb-2023 07:53:40 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[05-Feb-2023 07:53:40 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[05-Feb-2023 07:53:40 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[05-Feb-2023 07:53:40 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 00:23:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[06-Feb-2023 04:56:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 04:56:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 04:56:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 04:56:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 04:56:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 04:56:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 04:56:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 04:56:17 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:20:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:20:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:20:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:20:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:22:11 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:22:11 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:22:11 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:22:11 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:24:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:24:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:24:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:24:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:24:55 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[06-Feb-2023 05:24:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:24:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:24:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:24:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:26:37 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:26:37 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:26:37 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:26:37 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:27:01 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:27:01 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:27:01 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:27:01 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:27:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:27:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:27:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:27:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:27:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 354
+[06-Feb-2023 05:27:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:27:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:27:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:27:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[06-Feb-2023 05:29:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[06-Feb-2023 05:29:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[06-Feb-2023 05:29:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[06-Feb-2023 05:29:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[07-Feb-2023 07:12:52 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[07-Feb-2023 07:17:33 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php on line 3
+[08-Feb-2023 06:00:37 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[08-Feb-2023 18:31:38 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[08-Feb-2023 18:35:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:35:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:35:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:35:35 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[08-Feb-2023 18:38:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:38:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:38:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:38:49 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[08-Feb-2023 18:41:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:41:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:41:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:41:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[08-Feb-2023 18:41:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[08-Feb-2023 18:41:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:41:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:41:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:41:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[08-Feb-2023 18:42:13 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:42:13 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:42:13 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:42:13 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[08-Feb-2023 18:42:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[08-Feb-2023 18:42:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[08-Feb-2023 18:42:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[08-Feb-2023 18:42:38 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 05:42:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 05:42:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 05:42:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 05:42:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 05:43:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 05:43:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 05:43:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 05:43:07 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 05:43:18 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 05:43:18 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 05:43:18 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 05:43:18 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:03:37 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:03:50 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:06:21 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[09-Feb-2023 06:06:21 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[09-Feb-2023 06:06:21 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[09-Feb-2023 06:06:21 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:06:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:07:41 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[09-Feb-2023 06:08:37 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[09-Feb-2023 06:27:46 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[09-Feb-2023 06:29:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:29:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:29:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:29:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:29:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:29:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:29:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:29:12 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:29:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:29:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:29:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:29:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:30:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:30:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:30:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:30:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "amount" in /home/avroyzwl/dashboard.vatexfinbank.com/user/loan.php on line 83
+[09-Feb-2023 06:31:51 America/New_York] PHP Warning:  Undefined array key "loan_remarks" in /home/avroyzwl/dashboard.vatexfinbank.com/user/loan.php on line 104
+[09-Feb-2023 06:31:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:31:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:31:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:31:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:33:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:33:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:33:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:33:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:33:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[09-Feb-2023 06:33:10 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:33:10 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:33:10 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:33:10 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:34:50 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:34:50 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:34:50 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:34:50 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:34:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:34:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:34:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:34:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:35:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:35:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:35:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:35:28 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:35:30 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:35:30 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:35:30 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:35:30 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:35:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:35:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:35:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:35:57 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:36:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:36:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:36:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:36:05 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[09-Feb-2023 06:36:59 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[09-Feb-2023 06:36:59 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[09-Feb-2023 06:36:59 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[09-Feb-2023 06:36:59 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:18:45 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[10-Feb-2023 06:41:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:41:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:41:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:41:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:41:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:41:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:41:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:41:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:43:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:43:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:43:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:43:08 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:43:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 129
+[10-Feb-2023 06:43:14 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:43:14 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:43:14 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:43:14 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:44:33 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:44:33 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:44:33 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:44:33 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:45:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:45:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:45:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:45:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:47:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:47:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:47:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:47:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:50:25 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:51:27 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:52:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:53:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:53:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/user/userPinfunction.php on line 136
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:53:24 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:09 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:23 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:31 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:44 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:54:45 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:55:16 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:55:22 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:57:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:57:26 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 06:59:41 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:00:52 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:04 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:34 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:36 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:02:19 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[10-Feb-2023 07:05:06 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:47:10 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:47:39 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:55:44 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[10-Feb-2023 19:55:44 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[10-Feb-2023 19:55:44 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[10-Feb-2023 19:55:44 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:55:49 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/card.php on line 25
+[10-Feb-2023 19:57:33 America/New_York] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/avroyzwl/dashboard.vatexfinbank.com/user/card.php on line 25
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/include/cardFunction.php on line 4
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/include/cardFunction.php on line 6
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/include/cardFunction.php on line 8
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/include/cardFunction.php on line 10
+[10-Feb-2023 19:57:33 America/New_York] PHP Warning:  Undefined array key "card_reason" in /home/avroyzwl/dashboard.vatexfinbank.com/user/card.php on line 381
+[10-Feb-2023 20:00:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php on line 3
+[10-Feb-2023 23:11:38 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 18
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 19
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 20
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 21
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 286
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 297
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 311
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[11-Feb-2023 05:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/user/deposit.php on line 322
+[11-Feb-2023 05:09:21 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[11-Feb-2023 05:09:33 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[11-Feb-2023 05:09:52 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[13-Feb-2023 04:38:38 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[13-Feb-2023 05:08:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php on line 3
+[13-Feb-2023 05:25:58 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:27:38 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 05:37:13 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:43:56 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:43:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[13-Feb-2023 05:43:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[13-Feb-2023 05:43:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[13-Feb-2023 05:43:56 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[13-Feb-2023 05:44:48 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:44:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 96
+[13-Feb-2023 05:44:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 99
+[13-Feb-2023 05:44:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 103
+[13-Feb-2023 05:44:48 America/New_York] PHP Warning:  Undefined array key "crypto_status" in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 107
+[13-Feb-2023 05:48:51 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:54:52 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:55:10 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:55:33 America/New_York] PHP Parse error:  syntax error, unexpected identifier "d7uzM34NT3cOHSBs3Dk3ic34LeyuB5..." in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 16
+[13-Feb-2023 05:57:23 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 22
+[13-Feb-2023 05:57:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 05:59:08 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 22
+[13-Feb-2023 05:59:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 05:59:30 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 19
+[13-Feb-2023 05:59:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 06:02:05 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 09:00:31 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:00:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 09:01:16 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:01:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php(5): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(3): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 09:01:38 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:01:38 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[13-Feb-2023 18:40:01 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 18:40:01 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[14-Feb-2023 01:29:53 America/New_York] PHP Warning:  require_once(include/config.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 2
+[14-Feb-2023 01:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 2
+[14-Feb-2023 01:30:25 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:30:25 America/New_York] PHP Warning:  require_once(dashboard1.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[14-Feb-2023 01:30:25 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'dashboard1.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 5
+[14-Feb-2023 01:30:42 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:30:42 America/New_York] PHP Warning:  Undefined variable $decod in /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php on line 4
+[14-Feb-2023 01:31:44 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:33:22 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 02:15:40 America/New_York] PHP Warning:  require_once(license/auth.license.tpl1): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 10
+[14-Feb-2023 02:15:40 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'license/auth.license.tpl1' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:10
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(2): require_once()
+#1 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 10
+[14-Feb-2023 02:15:43 America/New_York] PHP Warning:  require_once(license/auth.license.tpl1): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 10
+[14-Feb-2023 02:15:43 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'license/auth.license.tpl1' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:10
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/user/dashboard.php(2): require_once()
+#1 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 10
+[14-Feb-2023 02:18:31 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:18:31 America/New_York] PHP Warning:  Undefined array key "acct_no" in /home/avroyzwl/dashboard.vatexfinbank.com/user/layouts/header.php on line 29
+[14-Feb-2023 02:19:29 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:23:03 America/New_York] PHP Warning:  Undefined variable $requireOnce in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[14-Feb-2023 02:23:03 America/New_York] PHP Warning:  Undefined variable $requireOnce in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 58
+[14-Feb-2023 02:23:03 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 166

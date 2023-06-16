@@ -1,0 +1,5 @@
+[13-Feb-2023 00:25:45 America/New_York] PHP Parse error:  syntax error, unexpected token "else" in /home/avroyzwl/dashboard.vatexfinbank.com/admin/view_users.php on line 207
+[13-Feb-2023 00:25:47 America/New_York] PHP Parse error:  syntax error, unexpected token "else" in /home/avroyzwl/dashboard.vatexfinbank.com/admin/view_users.php on line 207
+[13-Feb-2023 00:25:57 America/New_York] PHP Parse error:  syntax error, unexpected token "else" in /home/avroyzwl/dashboard.vatexfinbank.com/admin/view_users.php on line 207
+[13-Feb-2023 05:47:03 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:47:04 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2

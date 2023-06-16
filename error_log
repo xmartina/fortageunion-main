@@ -1,0 +1,257 @@
+[30-Jan-2023 06:30:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 06:31:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 06:40:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 08:30:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 08:43:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 22:31:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[30-Jan-2023 22:59:43 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[05-Feb-2023 06:48:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[05-Feb-2023 07:38:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[06-Feb-2023 00:22:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[06-Feb-2023 04:56:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[06-Feb-2023 05:20:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[07-Feb-2023 07:12:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[08-Feb-2023 18:35:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[09-Feb-2023 05:42:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[09-Feb-2023 06:01:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[09-Feb-2023 06:29:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[10-Feb-2023 06:37:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[10-Feb-2023 19:45:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[10-Feb-2023 23:12:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Undefined array key "login" in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 14
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 18
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 19
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 19
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 20
+[11-Feb-2023 05:06:38 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 52
+[11-Feb-2023 05:08:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[11-Feb-2023 06:01:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[13-Feb-2023 00:29:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[13-Feb-2023 05:07:47 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[13-Feb-2023 05:18:09 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/append.php on line 2
+[13-Feb-2023 05:18:41 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/append.php on line 2
+[13-Feb-2023 05:20:25 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/append.php on line 2
+[13-Feb-2023 05:20:51 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/append.php on line 2
+[13-Feb-2023 05:24:45 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:24:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[13-Feb-2023 05:25:58 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:41:09 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:42:51 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:43:00 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:43:54 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:43:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[13-Feb-2023 05:43:55 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:44:19 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:44:25 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:44:46 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:44:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[13-Feb-2023 05:48:54 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 05:49:29 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 2
+[13-Feb-2023 06:17:09 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:18:56 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:19:01 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:19:10 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:19:24 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:19:31 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:22:49 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:24:27 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:24:44 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:28:09 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:30:18 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:33:33 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:33:36 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:35:25 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:35:28 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:39:14 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:41:12 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:51:16 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:55:36 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:56:01 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 06:57:30 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:05:31 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:22:12 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:23:17 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:24:21 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:24:32 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:27:53 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:40:09 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:42:07 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:42:59 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:44:04 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:45:27 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:45:34 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:45:44 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 07:46:27 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:09:19 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:09:52 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:10:05 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:10:20 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:10:28 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:11:21 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:11:22 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:11:25 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:11:27 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:14:35 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:14:48 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:16:31 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:17:33 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:17:47 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:21:34 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:22:10 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:22:13 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:22:15 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:22:25 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:23:07 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:24:01 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:25:44 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:40:10 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:40:32 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:41:05 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 08:55:52 America/New_York] PHP Parse error:  syntax error, unexpected token ">" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 6
+[13-Feb-2023 09:01:38 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:36:53 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:37:14 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:37:16 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:37:28 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:53:52 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:53:52 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 09:53:53 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 12:01:08 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 14:04:44 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 15:53:51 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 16:02:03 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:19:46 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:19:52 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:33:45 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:35:30 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:36:00 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 17:36:14 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[13-Feb-2023 18:40:02 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:43:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 00:43:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 00:44:29 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:44:29 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:44:32 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:44:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:44:53 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:46:41 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php/auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:46:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:47:58 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php/auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:47:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:48:42 America/New_York] PHP Warning:  require_once(../include/license/domain.auth.php/auth.php): Failed to open stream: No such file or directory in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../include/license/domain.auth.php/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:49:50 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 00:52:54 America/New_York] PHP Parse error:  syntax error, unexpected integer "01100110" in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 7
+[14-Feb-2023 01:10:21 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 13
+[14-Feb-2023 01:10:23 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 13
+[14-Feb-2023 01:11:19 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 13
+[14-Feb-2023 01:11:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 01:13:36 America/New_York] PHP Warning:  hex2bin(): Input string must be hexadecimal string in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 01:13:36 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 14
+[14-Feb-2023 01:13:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 01:14:24 America/New_York] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 01:14:24 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 14
+[14-Feb-2023 01:14:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 01:15:09 America/New_York] PHP Warning:  hex2bin(): Hexadecimal input string must have an even length in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 5
+[14-Feb-2023 01:15:09 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 14
+[14-Feb-2023 01:15:09 America/New_York] PHP Warning:  require_once(/home/avroyzwl/dashboard.vatexfinbank.com): Failed to open stream: Interrupted system call in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:15:09 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php:17
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(4): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:17:12 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 14
+[14-Feb-2023 01:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php:5
+Stack trace:
+#0 /home/avroyzwl/dashboard.vatexfinbank.com/include/loginFunction.php(6): require_once()
+#1 /home/avroyzwl/dashboard.vatexfinbank.com/layout/header.php(3): require_once('/home/avroyzwl/...')
+#2 /home/avroyzwl/dashboard.vatexfinbank.com/login.php(2): include_once('/home/avroyzwl/...')
+#3 {main}
+  thrown in /home/avroyzwl/dashboard.vatexfinbank.com/include/userFunction.php on line 5
+[14-Feb-2023 01:18:31 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 15
+[14-Feb-2023 01:28:59 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:29:36 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:29:43 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:29:53 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 17
+[14-Feb-2023 01:29:53 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
+[14-Feb-2023 02:18:33 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:19:01 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:19:10 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:19:19 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:19:29 America/New_York] PHP Warning:  Undefined variable $url in /home/avroyzwl/dashboard.vatexfinbank.com/include/config.php on line 164
+[14-Feb-2023 02:19:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/avroyzwl/dashboard.vatexfinbank.com/pin.php on line 37
